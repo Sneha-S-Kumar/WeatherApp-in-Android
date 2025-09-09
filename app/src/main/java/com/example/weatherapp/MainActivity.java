@@ -38,7 +38,7 @@ import java.util.Set;
 
 public class MainActivity extends AppCompatActivity {
 
-    private static final String API_KEY="03a3509164a545b2279b07914a30c6bb";
+    private static final String API_KEY="YOUR_API_KEY";
     private static final String BASE_URL = "https://api.openweathermap.org/data/2.5/forecast";
     private static final String PREFS_NAME = "WeatherPrefs";
     private static final String SAVED_LOCATIONS = "saved_locations";
