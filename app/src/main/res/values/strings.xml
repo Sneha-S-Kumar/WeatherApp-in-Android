@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Weather Forecast</string>
+    <string name="search_hint">Enter city name</string>
+    <string name="search">Search</string>
+    <string name="saved_locations">Saved Locations</string>
+    <string name="five_day_forecast">5-Day Forecast</string>
+    <string name="weather_details">Weather Details</string>
+    <string name="feels_like">Feels Like</string>
+    <string name="humidity">Humidity</string>
+    <string name="pressure">Pressure</string>
+    <string name="wind_speed">Wind Speed</string>
+    <string name="no_internet">No internet connection</string>
+    <string name="loading_offline">Loading offline data...</string>
+    <string name="no_offline_data">No offline data available</string>
+    <string name="error_fetching_data">Error fetching weather data</string>
+    <string name="enter_location">Please enter a location</string>
+</resources>
